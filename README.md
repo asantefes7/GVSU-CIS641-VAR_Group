@@ -6,9 +6,7 @@ Project description (~1 paragraph)
 
 * Member 1 (Role 1, Role 2)
 * Member 2 (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
-
-(https://github.com/asantefes7/CIS641-HW2-Asante.git)
+* Member 3 (https://github.com/asantefes7/CIS641-HW2-Asante.git)
 
 ## Prerequisites
 
