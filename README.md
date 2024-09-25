@@ -8,7 +8,7 @@ Project description (~1 paragraph)
 * Member 2 (Role 3, Role 4)
 * Member 3 (Role 5, Role 6)
 
-git@github.com:asantefes7/CIS641-HW2-Asante.git
+(https://github.com/asantefes7/CIS641-HW2-Asante.git)
 
 ## Prerequisites
 
